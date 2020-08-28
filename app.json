@@ -1,0 +1,12 @@
+{
+  "name": "metroApp",
+  "displayName": "metroApp",
+  "expo": {
+    "name": "metroApp",
+    "slug": "metroApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

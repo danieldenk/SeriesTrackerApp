@@ -1,0 +1,22 @@
+{
+    "seriesJSON":[
+        {
+            "name":"Narcos",
+            "img":"https://shortyawards.imgix.net/entries/8th/work_netflix-original-series-narcos-social-campaig.jpg?auto=compress&crop=faces%2Ccenter&fit=crop&h=630&q=90&w=1200&s=db037f56888ffa270d0095a827626e45",
+            "season":2,
+            "episode":3
+        },
+        {
+            "name":"Casa de Papel",
+            "img":"https://static.themoscowtimes.com/image/article_1360/95/nacosKopie.JPG",
+            "season":3,
+            "episode":4
+        },
+        {
+            "name":"Game of Thrones",
+            "img":"https://www.golegal.co.za/wp-content/uploads/2019/04/Game-of-Thrones.png",
+            "season":1,
+            "episode":7
+        }
+    ]
+    }
